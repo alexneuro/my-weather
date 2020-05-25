@@ -1,0 +1,17 @@
+.likesLoading {
+    color: gray;
+    animation: like .2s infinite linear;
+}
+.like{
+    color:red;
+    cursor: pointer;
+}
+
+@keyframes like {
+    from {
+        transform: rotateY(0deg);
+    }
+    to {
+        transform: rotateY(180deg);
+    }
+}

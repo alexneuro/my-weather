@@ -1,0 +1,21 @@
+*{
+    font-family: Roboto;
+}
+.logo-box {
+    position: absolute;
+    left: 100px;
+    top: 20px;
+    z-index: 99999;
+}
+
+@media screen and (max-width: 1000px){
+    .logo-box{
+        left: 20px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .logo-box img{
+        width:100px;
+    }
+}

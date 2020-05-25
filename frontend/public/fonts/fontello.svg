@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="login" unicode="&#xe800;" d="M800 800q42 0 71-29t29-71l0-700q0-40-29-70t-71-30l-450 0q-40 0-69 30t-29 70l0 100 98 0 0-100 450 0 0 700-450 0 0-150-98 0 0 150q0 42 29 71t69 29l450 0z m-350-670l0 120-450 0 0 150 450 0 0 120 200-194z" horiz-adv-x="900" />
+
+<glyph glyph-name="user" unicode="&#xe801;" d="M313 793q107 0 183-77t77-183-77-184-183-76-184 76-76 184 76 183 184 77z m-313-782q0 83 86 146t227 63q136 0 224-63t88-146q0-41-89-72t-223-32q-140 0-227 32t-86 72z" horiz-adv-x="625" />
+
+<glyph glyph-name="heart" unicode="&#xe802;" d="M0 530q0 103 73 176t177 73q70 0 128-34t91-93q32 58 90 93t128 34q103 0 177-73t73-176q0-95-63-166l-343-403q-25-31-62-31t-63 31l-343 403q-63 71-63 166z" horiz-adv-x="937.5" />
+
+<glyph glyph-name="level-up" unicode="&#xe803;" d="M200 350l0-90-200 160 200 170 0-100 550 0q40 0 70-29t30-71l0-280-140 0 0 240-510 0z" horiz-adv-x="850" />
+
+<glyph glyph-name="zoom-in" unicode="&#xe804;" d="M495 450q11 0 19-7t7-19-7-19-19-7l-105 0 0-104q0-26-25-26-11 0-19 7t-7 19l0 104-105 0q-25 0-25 26t25 26l105 0 0 104q0 11 7 19t19 7q25 0 25-26l0-104 105 0z m255-179q13-12 38-39t40-41q47-47 47-115t-47-115-115-49q-69 0-117 48l-117 118q-60-19-114-19-151 0-258 107t-107 258 107 257 258 107 258-107 106-257q0-58-18-114z m-646 153q0-108 77-185t184-76 184 76 76 185-76 184-184 76-184-76-77-184z" horiz-adv-x="875" />
+</font>
+</defs>
+</svg>
